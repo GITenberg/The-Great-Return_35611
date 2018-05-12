@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/214
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35611#The-Great-Return
 gutenberg_issued: '2011-03-18'
 gutenberg_type: Text
 identifiers:
